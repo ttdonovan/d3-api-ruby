@@ -10,3 +10,4 @@ More information to come at a later date.
     $ bundle
     $ COVERAGE=true rake spec
     $ guard
+    $ irb -Ilib -rd3
